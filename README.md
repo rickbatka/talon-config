@@ -112,7 +112,7 @@ On Mac, try commands such as
 `control shift command 4` to press ` ctrl-shift-cmd-4` to trigger the screenshot application. Then try `escape` to exit the screenshot application. Please note the order of the modifiers doesn't matter.
 
 
-Any combination of the modifiers, symbols, alphabet, numbers and function keys can be executed via voice to execute shorcuts. Out of the box, only the modifier keys (command, shift, alt, super) cannot be triggered by themselves. 
+&b close 0bhAny combination of the modifiers, symbols, alphabet, numbers and function keys can be executed via voice to execute shorcuts. Out of the box, only the modifier keys (command, shift, alt, super) cannot be triggered by themselves. 
 
 ### Symbols
 Some symbols are defined in keys.py, so you can say e.g. `control colon` to press those keys.
@@ -204,7 +204,7 @@ https://www.howtogeek.com/121218/beginner-how-to-make-explorer-always-show-the-f
 For the Windows command line, the `refresh title` command will force the title to the current directory, and all directory commands (`follow 1`) will automatically update the title.
 
 Notes: 
-
+b.
 • Both Windows Explorer and Finder hide certain files and folder by default, so it's often best to use the imgui to list the options before issuing commands. 
 
 • If there no hidden files or folders, and the items are displayed in alphabetical order, you can typically issue the `follow <number>`, `file <number>` and `open <number>` commands based on the displayed order.
@@ -226,7 +226,7 @@ For instance, kubectl commands (kubernetes) aren't relevant to everyone.
 
 
 ## Jetbrains commands
-
+f0f1
 For Jetbrains commands to work you must install https://plugins.jetbrains.com/plugin/10504-voice-code-idea
 into each editor.
 
